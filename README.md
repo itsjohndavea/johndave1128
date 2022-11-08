@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=1F51FF&background=1599FF00&center=true&vCenter=true&width=700&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+John+Dave+Aquino(Davee);a+MERN+STACK;and+Flutter+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&color=1F51FF&background=1599FF00&center=true&vCenter=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+John+Dave+Aquino(Davee);a+MERN+STACK;and+Flutter+Developer;Always+learning+new+things" alt="Typing SVG" /></a></a>
 <hr style="height:0.5px;width:100%;color:gray;background-color:gray">
 <h3 align="center">A passionate developer from nowhere.</h3>
 
