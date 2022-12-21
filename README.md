@@ -3,7 +3,7 @@
 <hr style="height:0.5px;width:100%;color:gray;background-color:gray">
 <h3 align="center">A passionate developer from nowhere.</h3>
 
-- 🌱 I’m currently learning **MERN and Flutter.**
+- 🌱 I’m currently learning **MERN, Flutter, and Java Android Development**
 
 - 📫 How to reach me **johndaveaquino35@gmail.com**
 
