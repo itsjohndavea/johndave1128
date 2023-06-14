@@ -4,7 +4,7 @@
 <h3 align="center">A passionate developer from nowhere.</h3>
 
 - 🌱 I’m currently learning **NextJs, Flutter, Laravel, and JavaFX**
-
+- Website Developer/Software Engineer/ Fullstack Engiineer soon
 - 📫 How to reach me **johndaveaquino35@gmail.com**
 
 <h3 align="left">Connect with me:<a href="https://twitter.com/johndaveaquino8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johndaveaquino8" height="30" width="40" /></a>
