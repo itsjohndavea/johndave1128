@@ -3,7 +3,7 @@
 <hr style="height:0.5px;width:100%;color:gray;background-color:gray">
 <h3 align="center">A passionate Software Engineer from nowhere.</h3>
 
-- 🌱 I’m currently learning **NextJs, Flutter, Laravel, and JavaFX**
+- 🌱 I’m currently learning **NextJs, Flutter, Laravel, Spring Boot and JavaFX**
 - Knowledgeable with **PHP, JAVASCRIPT, PYTHON, C#, JAVA(PRESENT JOB WITH JAVAFX), DART** Programming Language.
 - 📫 How to reach me **johndaveaquino35@gmail.com**
 
